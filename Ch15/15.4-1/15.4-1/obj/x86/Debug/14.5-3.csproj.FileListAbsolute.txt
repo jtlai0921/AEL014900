@@ -1,0 +1,2 @@
+D:\Examples\Ch15\15.4-1\15.4-1\obj\x86\Debug\14.6-s2.exe
+D:\Examples\Ch15\15.4-1\15.4-1\obj\x86\Debug\14.6-s2.pdb

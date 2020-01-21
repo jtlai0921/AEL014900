@@ -1,0 +1,12 @@
+D:\Examples\Ch3\3.5-1\3.5-s\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch3\3.5-1\3.5-s\obj\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch3\3.5-1\3.5-s\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Examples\Ch3\3.5-1\3.5-1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Examples\Ch3\3.5-1\3.5-1\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch3\3.5-1\3.5-1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch3\3.5-1\3.5-1\bin\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch3\3.5-1\3.5-1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch3\3.5-1\3.5-1\obj\Debug\3.5-1.csprojResolveAssemblyReference.cache
+D:\Examples\Ch3\3.5-1\3.5-1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Examples\Ch3\3.5-1\3.5-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Examples\Ch3\3.5-1\3.5-1\obj\Debug\3.5-1.csproj.GenerateResource.Cache

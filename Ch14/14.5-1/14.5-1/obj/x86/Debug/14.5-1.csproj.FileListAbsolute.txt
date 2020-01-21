@@ -1,0 +1,35 @@
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.5-1\bin\Debug\14.5-1.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.5-1\bin\Debug\14.5-1.pdb
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.5-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.5-1\obj\x86\Debug\_14._5_1.Form1.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.5-1\obj\x86\Debug\_14._5_1.Properties.Resources.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.5-1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.5-1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.5-1\obj\x86\Debug\14.5-1.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.5-1\obj\x86\Debug\14.5-1.pdb
+D:\Workings\C#\rev2\14\14.5-1\14.5-1\obj\x86\Debug\14.5-1.exe
+D:\Workings\C#\rev2\14\14.5-1\14.5-1\obj\x86\Debug\14.5-1.pdb
+D:\Workings\C#\rev2\14\14.5-1\14.5-1\bin\Debug\14.5-1.exe
+D:\Workings\C#\rev2\14\14.5-1\14.5-1\bin\Debug\14.5-1.pdb
+D:\Workings\C#\rev2\14\14.5-1\14.5-1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Workings\C#\rev2\14\14.5-1\14.5-1\obj\x86\Debug\_14._5_1.Form1.resources
+D:\Workings\C#\rev2\14\14.5-1\14.5-1\obj\x86\Debug\_14._5_1.Properties.Resources.resources
+D:\Workings\C#\rev2\14\14.5-1\14.5-1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Workings\C#\rev2\14\14.5-1\14.5-1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\14.5-1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\14.5-1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch14\14.5-1\14.5-1\bin\Debug\14.5-1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch14\14.5-1\14.5-1\bin\Debug\14.5-1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\_14._5_1.Form1.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\_14._5_1.Properties.Resources.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\14.5-1.exe
+D:\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\14.5-1.pdb
+D:\Examples\Ch14\14.5-1\14.5-1\bin\Debug\14.5-1.exe
+D:\Examples\Ch14\14.5-1\14.5-1\bin\Debug\14.5-1.pdb
+D:\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\14.5-1.csprojResolveAssemblyReference.cache
+D:\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\_14._5_1.Form1.resources
+D:\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\_14._5_1.Properties.Resources.resources
+D:\Examples\Ch14\14.5-1\14.5-1\obj\x86\Debug\14.5-1.csproj.GenerateResource.Cache

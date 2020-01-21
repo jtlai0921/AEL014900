@@ -1,0 +1,8 @@
+D:\Examples\附錄A\A.3-1\A.3-1\bin\Debug\15.3-1.exe
+D:\Examples\附錄A\A.3-1\A.3-1\bin\Debug\15.3-1.pdb
+D:\Examples\附錄A\A.3-1\A.3-1\obj\x86\Debug\A.3-1.csprojResolveAssemblyReference.cache
+D:\Examples\附錄A\A.3-1\A.3-1\obj\x86\Debug\_15._3_1.Form1.resources
+D:\Examples\附錄A\A.3-1\A.3-1\obj\x86\Debug\_15._3_1.Properties.Resources.resources
+D:\Examples\附錄A\A.3-1\A.3-1\obj\x86\Debug\A.3-1.csproj.GenerateResource.Cache
+D:\Examples\附錄A\A.3-1\A.3-1\obj\x86\Debug\15.3-1.exe
+D:\Examples\附錄A\A.3-1\A.3-1\obj\x86\Debug\15.3-1.pdb

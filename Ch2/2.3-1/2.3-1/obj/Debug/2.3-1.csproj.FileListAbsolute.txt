@@ -1,0 +1,12 @@
+D:\Examples\Ch2\2.3-1\2.3-1\bin\Debug\2.3-1.exe.config
+D:\Examples\Ch2\2.3-1\2.3-1\bin\Debug\2.3-1.exe
+D:\Examples\Ch2\2.3-1\2.3-1\bin\Debug\2.3-1.pdb
+D:\Examples\Ch2\2.3-1\2.3-1\obj\Debug\2.3-1.csprojResolveAssemblyReference.cache
+D:\Examples\Ch2\2.3-1\2.3-1\obj\Debug\2.3-1.exe
+D:\Examples\Ch2\2.3-1\2.3-1\obj\Debug\2.3-1.pdb
+D:\Book_1_Visual C# 2013程式設計16堂特訓_碁峰\書附光碟\Ch2\2.3-1\2.3-1\bin\Debug\2.3-1.exe.config
+D:\Book_1_Visual C# 2013程式設計16堂特訓_碁峰\書附光碟\Ch2\2.3-1\2.3-1\obj\Debug\2.3-1.exe
+D:\Book_1_Visual C# 2013程式設計16堂特訓_碁峰\書附光碟\Ch2\2.3-1\2.3-1\obj\Debug\2.3-1.pdb
+D:\Book_1_Visual C# 2013程式設計16堂特訓_碁峰\書附光碟\Ch2\2.3-1\2.3-1\bin\Debug\2.3-1.exe
+D:\Book_1_Visual C# 2013程式設計16堂特訓_碁峰\書附光碟\Ch2\2.3-1\2.3-1\bin\Debug\2.3-1.pdb
+D:\Book_1_Visual C# 2013程式設計16堂特訓_碁峰\書附光碟\Ch2\2.3-1\2.3-1\obj\Debug\2.3-1.csprojResolveAssemblyReference.cache

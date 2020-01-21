@@ -1,0 +1,18 @@
+D:\Examples\Ch6\6.5-s2\6.4-3\bin\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch6\6.5-s2\6.4-3\bin\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch6\6.5-s2\6.4-3\obj\Debug\6.4-3.csprojResolveAssemblyReference.cache
+D:\Examples\Ch6\6.5-s2\6.4-3\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Examples\Ch6\6.5-s2\6.4-3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Examples\Ch6\6.5-s2\6.4-3\obj\Debug\6.4-3.csproj.GenerateResource.Cache
+D:\Examples\Ch6\6.5-s2\6.4-3\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch6\6.5-s2\6.4-3\obj\Debug\WindowsFormsApplication1.pdb
+D:\My Books\我的書電子檔\2013_Book_Visual C# 2012程式設計16堂特訓_上奇\給上奇的資料\書附光碟\Ch6\6.4-3\6.4-3\obj\Debug\WindowsFormsApplication1.exe
+D:\My Books\我的書電子檔\2013_Book_Visual C# 2012程式設計16堂特訓_上奇\給上奇的資料\書附光碟\Ch6\6.4-3\6.4-3\obj\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch6\6.4-3\6.4-3\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch6\6.4-3\6.4-3\obj\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch6\6.4-3\6.4-3\bin\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch6\6.4-3\6.4-3\bin\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch6\6.4-3\6.4-3\obj\Debug\6.4-3.csprojResolveAssemblyReference.cache
+D:\Examples\Ch6\6.4-3\6.4-3\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Examples\Ch6\6.4-3\6.4-3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Examples\Ch6\6.4-3\6.4-3\obj\Debug\6.4-3.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\Examples\Ch15\15.2-1\15.2-1\obj\x86\Debug\12.7-s2.exe
+D:\Examples\Ch15\15.2-1\15.2-1\obj\x86\Debug\12.7-s2.pdb
+D:\Examples\Ch15\15.2-1\15.2-1\bin\Debug\12.7-s2.exe
+D:\Examples\Ch15\15.2-1\15.2-1\bin\Debug\12.7-s2.pdb
+D:\Examples\Ch15\15.2-1\15.2-1\obj\x86\Debug\15.2-1.csprojResolveAssemblyReference.cache
+D:\Examples\Ch15\15.2-1\15.2-1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Examples\Ch15\15.2-1\15.2-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Examples\Ch15\15.2-1\15.2-1\obj\x86\Debug\15.2-1.csproj.GenerateResource.Cache

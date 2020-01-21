@@ -1,0 +1,17 @@
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.6-s2\bin\Debug\14.6-s2.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.6-s2\bin\Debug\14.6-s2.pdb
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.6-s2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.6-s2\obj\x86\Debug\_14._6_s2.Form1.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.6-s2\obj\x86\Debug\_14._6_s2.Properties.Resources.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.6-s2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.6-s2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.6-s2\obj\x86\Debug\14.6-s2.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\14.6-s2\obj\x86\Debug\14.6-s2.pdb
+D:\Examples\Ch14\14.5-3\14.5-3\obj\x86\Debug\14.6-s2.exe
+D:\Examples\Ch14\14.5-3\14.5-3\obj\x86\Debug\14.6-s2.pdb
+D:\Examples\Ch14\14.5-3\14.5-3\bin\Debug\14.6-s2.exe
+D:\Examples\Ch14\14.5-3\14.5-3\bin\Debug\14.6-s2.pdb
+D:\Examples\Ch14\14.5-3\14.5-3\obj\x86\Debug\14.6-s2.csprojResolveAssemblyReference.cache
+D:\Examples\Ch14\14.5-3\14.5-3\obj\x86\Debug\_14._6_s2.Form1.resources
+D:\Examples\Ch14\14.5-3\14.5-3\obj\x86\Debug\_14._6_s2.Properties.Resources.resources
+D:\Examples\Ch14\14.5-3\14.5-3\obj\x86\Debug\14.6-s2.csproj.GenerateResource.Cache

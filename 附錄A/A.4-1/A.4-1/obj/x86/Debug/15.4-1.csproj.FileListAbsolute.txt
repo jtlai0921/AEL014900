@@ -1,0 +1,29 @@
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.4-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.4-1\obj\x86\Debug\_15._4_1.Form1.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.4-1\obj\x86\Debug\_15._4_1.Properties.Resources.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.4-1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.4-1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.4-1\bin\Debug\15.4-1.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.4-1\bin\Debug\15.4-1.pdb
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.4-1\obj\x86\Debug\15.4-1.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.4-1\obj\x86\Debug\15.4-1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.4-1\15.4-1\obj\x86\Debug\15.4-1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.4-1\15.4-1\obj\x86\Debug\15.4-1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.4-1\15.4-1\bin\Debug\15.4-1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.4-1\15.4-1\bin\Debug\15.4-1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.4-1\15.4-1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.4-1\15.4-1\obj\x86\Debug\_15._4_1.Form1.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.4-1\15.4-1\obj\x86\Debug\_15._4_1.Properties.Resources.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.4-1\15.4-1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.4-1\15.4-1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.4-1\15.4-1\obj\x86\Debug\15.4-1.exe
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.4-1\15.4-1\obj\x86\Debug\15.4-1.pdb
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.4-1\15.4-1\bin\Debug\15.4-1.exe
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.4-1\15.4-1\bin\Debug\15.4-1.pdb
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.4-1\15.4-1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.4-1\15.4-1\obj\x86\Debug\_15._4_1.Form1.resources
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.4-1\15.4-1\obj\x86\Debug\_15._4_1.Properties.Resources.resources
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.4-1\15.4-1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.4-1\15.4-1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Examples\附錄A\A.4-1\A.4-1\obj\x86\Debug\15.4-1.exe
+D:\Examples\附錄A\A.4-1\A.4-1\obj\x86\Debug\15.4-1.pdb

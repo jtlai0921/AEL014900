@@ -1,0 +1,26 @@
+D:\Workings\C#\rev2\9\9.6-s2\9.6-s2\obj\Debug\WindowsFormsApplication1.exe
+D:\Workings\C#\rev2\9\9.6-s2\9.6-s2\obj\Debug\WindowsFormsApplication1.pdb
+D:\Workings\C#\rev2\9\9.6-s2\9.6-s2\bin\Debug\WindowsFormsApplication1.exe
+D:\Workings\C#\rev2\9\9.6-s2\9.6-s2\bin\Debug\WindowsFormsApplication1.pdb
+D:\Workings\C#\rev2\9\9.6-s2\9.6-s2\obj\Debug\ResolveAssemblyReference.cache
+D:\Workings\C#\rev2\9\9.6-s2\9.6-s2\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Workings\C#\rev2\9\9.6-s2\9.6-s2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Workings\C#\rev2\9\9.6-s2\9.6-s2\obj\Debug\GenerateResource.read.1.tlog
+D:\Workings\C#\rev2\9\9.6-s2\9.6-s2\obj\Debug\GenerateResource.write.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch9\9.6-s2\9.6-s2\obj\Debug\WindowsFormsApplication1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch9\9.6-s2\9.6-s2\obj\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch9\9.6-s2\9.6-s2\bin\Debug\WindowsFormsApplication1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch9\9.6-s2\9.6-s2\bin\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch9\9.6-s2\9.6-s2\obj\Debug\ResolveAssemblyReference.cache
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch9\9.6-s2\9.6-s2\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch9\9.6-s2\9.6-s2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch9\9.6-s2\9.6-s2\obj\Debug\GenerateResource.read.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch9\9.6-s2\9.6-s2\obj\Debug\GenerateResource.write.1.tlog
+D:\Examples\Ch9\9.5-3\9.5-3\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch9\9.5-3\9.5-3\obj\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch9\9.5-3\9.5-3\bin\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch9\9.5-3\9.5-3\bin\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch9\9.5-3\9.5-3\obj\Debug\9.6-s2.csprojResolveAssemblyReference.cache
+D:\Examples\Ch9\9.5-3\9.5-3\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Examples\Ch9\9.5-3\9.5-3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Examples\Ch9\9.5-3\9.5-3\obj\Debug\9.6-s2.csproj.GenerateResource.Cache

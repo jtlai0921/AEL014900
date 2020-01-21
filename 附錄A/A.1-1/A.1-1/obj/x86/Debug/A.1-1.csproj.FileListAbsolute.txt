@@ -1,0 +1,2 @@
+D:\Examples\附錄A\A.1-1\A.1-1\obj\x86\Debug\15.1-1.exe
+D:\Examples\附錄A\A.1-1\A.1-1\obj\x86\Debug\15.1-1.pdb

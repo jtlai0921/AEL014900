@@ -1,0 +1,4 @@
+D:\Examples\Ch9\9.5-3\9.5-3\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch9\9.5-3\9.5-3\obj\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch15\15.1-1\15.1-1\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch15\15.1-1\15.1-1\obj\Debug\WindowsFormsApplication1.pdb

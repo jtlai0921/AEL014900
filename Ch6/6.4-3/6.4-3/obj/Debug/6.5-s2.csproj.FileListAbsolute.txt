@@ -1,0 +1,11 @@
+D:\Workings\C#\rev2\6\6.5-s2\6.5-2\obj\Debug\WindowsFormsApplication1.exe
+D:\Workings\C#\rev2\6\6.5-s2\6.5-2\obj\Debug\WindowsFormsApplication1.pdb
+D:\Workings\C#\rev2\6\6.5-s2\6.5-2\bin\Debug\WindowsFormsApplication1.exe
+D:\Workings\C#\rev2\6\6.5-s2\6.5-2\bin\Debug\WindowsFormsApplication1.pdb
+D:\Workings\C#\rev2\6\6.5-s2\6.5-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Workings\C#\rev2\6\6.5-s2\6.5-2\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Workings\C#\rev2\6\6.5-s2\6.5-2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Workings\C#\rev2\6\6.5-s2\6.5-2\obj\Debug\GenerateResource.read.1.tlog
+D:\Workings\C#\rev2\6\6.5-s2\6.5-2\obj\Debug\GenerateResource.write.1.tlog
+D:\Examples\Ch6\6.5-s2\6.4-3\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch6\6.5-s2\6.4-3\obj\Debug\WindowsFormsApplication1.pdb

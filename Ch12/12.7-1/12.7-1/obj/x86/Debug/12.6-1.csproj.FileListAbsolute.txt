@@ -1,0 +1,9 @@
+D:\Workings\C#\rev2\12\12.6-1\12.6-1\bin\Debug\12.6-1.exe
+D:\Workings\C#\rev2\12\12.6-1\12.6-1\bin\Debug\12.6-1.pdb
+D:\Workings\C#\rev2\12\12.6-1\12.6-1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Workings\C#\rev2\12\12.6-1\12.6-1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Workings\C#\rev2\12\12.6-1\12.6-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Workings\C#\rev2\12\12.6-1\12.6-1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Workings\C#\rev2\12\12.6-1\12.6-1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Workings\C#\rev2\12\12.6-1\12.6-1\obj\x86\Debug\12.6-1.exe
+D:\Workings\C#\rev2\12\12.6-1\12.6-1\obj\x86\Debug\12.6-1.pdb

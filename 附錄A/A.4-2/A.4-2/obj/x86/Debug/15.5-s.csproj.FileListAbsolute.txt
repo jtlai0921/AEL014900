@@ -1,0 +1,43 @@
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.5-s\bin\Debug\15.5-s.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.5-s\bin\Debug\15.5-s.pdb
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.5-s\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.5-s\obj\x86\Debug\_15._5_s.Form1.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.5-s\obj\x86\Debug\_15._5_s.Properties.Resources.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.5-s\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.5-s\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.5-s\obj\x86\Debug\15.5-s.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\15.5-s\obj\x86\Debug\15.5-s.pdb
+D:\Workings\C#\rev2\15\15.5-s\15.5-s\obj\x86\Debug\15.5-s.exe
+D:\Workings\C#\rev2\15\15.5-s\15.5-s\obj\x86\Debug\15.5-s.pdb
+D:\Workings\C#\rev2\15\15.5-s\15.5-s\bin\Debug\15.5-s.exe
+D:\Workings\C#\rev2\15\15.5-s\15.5-s\bin\Debug\15.5-s.pdb
+D:\Workings\C#\rev2\15\15.5-s\15.5-s\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Workings\C#\rev2\15\15.5-s\15.5-s\obj\x86\Debug\_15._5_s.Form1.resources
+D:\Workings\C#\rev2\15\15.5-s\15.5-s\obj\x86\Debug\_15._5_s.Properties.Resources.resources
+D:\Workings\C#\rev2\15\15.5-s\15.5-s\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Workings\C#\rev2\15\15.5-s\15.5-s\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.5-s\15.5-s\obj\x86\Debug\15.5-s.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.5-s\15.5-s\obj\x86\Debug\15.5-s.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.5-s\15.5-s\bin\Debug\15.5-s.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.5-s\15.5-s\bin\Debug\15.5-s.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.5-s\15.5-s\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.5-s\15.5-s\obj\x86\Debug\_15._5_s.Form1.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.5-s\15.5-s\obj\x86\Debug\_15._5_s.Properties.Resources.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.5-s\15.5-s\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch15\15.5-s\15.5-s\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.5-s\15.5-s\obj\x86\Debug\15.5-s.exe
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.5-s\15.5-s\obj\x86\Debug\15.5-s.pdb
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.5-s\15.5-s\bin\Debug\15.5-s.exe
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.5-s\15.5-s\bin\Debug\15.5-s.pdb
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.5-s\15.5-s\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.5-s\15.5-s\obj\x86\Debug\_15._5_s.Form1.resources
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.5-s\15.5-s\obj\x86\Debug\_15._5_s.Properties.Resources.resources
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.5-s\15.5-s\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch15\15.5-s\15.5-s\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Examples\附錄A\A.4-2\A.4-2\obj\x86\Debug\15.5-s.exe
+D:\Examples\附錄A\A.4-2\A.4-2\obj\x86\Debug\15.5-s.pdb
+D:\Examples\附錄A\A.4-2\A.4-2\bin\Debug\15.5-s.exe
+D:\Examples\附錄A\A.4-2\A.4-2\bin\Debug\15.5-s.pdb
+D:\Examples\附錄A\A.4-2\A.4-2\obj\x86\Debug\_15._5_s.Form1.resources
+D:\Examples\附錄A\A.4-2\A.4-2\obj\x86\Debug\_15._5_s.Properties.Resources.resources
+D:\Examples\附錄A\A.4-2\A.4-2\obj\x86\Debug\15.5-s.csproj.GenerateResource.Cache

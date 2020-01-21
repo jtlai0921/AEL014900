@@ -1,0 +1,29 @@
+D:\Workings\C#\rev2\4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.exe
+D:\Workings\C#\rev2\4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch4\4.7-1\4.7-1\bin\Debug\WindowsFormsApplication1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch4\4.7-1\4.7-1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch4\4.7-1\4.7-1\obj\Debug\ResolveAssemblyReference.cache
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch4\4.7-1\4.7-1\obj\Debug\GenerateResource.read.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch4\4.7-1\4.7-1\obj\Debug\GenerateResource.write.1.tlog
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.exe
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.exe
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\bin\Debug\WindowsFormsApplication1.exe
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\obj\Debug\4.7-1.csprojResolveAssemblyReference.cache
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch4\4.7-1\4.7-1\obj\Debug\4.7-1.csproj.GenerateResource.Cache
+D:\Examples\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch4\4.7-1\4.7-1\bin\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch4\4.7-1\4.7-1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch4\4.7-1\4.7-1\obj\Debug\4.7-1.csprojResolveAssemblyReference.cache
+D:\Examples\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Examples\Ch4\4.7-1\4.7-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Examples\Ch4\4.7-1\4.7-1\obj\Debug\4.7-1.csproj.GenerateResource.Cache

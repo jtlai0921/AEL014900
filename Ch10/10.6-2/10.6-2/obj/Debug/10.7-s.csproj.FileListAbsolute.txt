@@ -1,0 +1,29 @@
+D:\Workings\C#\rev2\10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.exe
+D:\Workings\C#\rev2\10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.pdb
+D:\Workings\C#\rev2\10\10.7-s\10.7-s\bin\Debug\WindowsFormsApplication1.exe
+D:\Workings\C#\rev2\10\10.7-s\10.7-s\bin\Debug\WindowsFormsApplication1.pdb
+D:\Workings\C#\rev2\10\10.7-s\10.7-s\obj\Debug\ResolveAssemblyReference.cache
+D:\Workings\C#\rev2\10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Workings\C#\rev2\10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Workings\C#\rev2\10\10.7-s\10.7-s\obj\Debug\GenerateResource.read.1.tlog
+D:\Workings\C#\rev2\10\10.7-s\10.7-s\obj\Debug\GenerateResource.write.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch10\10.7-s\10.7-s\bin\Debug\WindowsFormsApplication1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch10\10.7-s\10.7-s\bin\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch10\10.7-s\10.7-s\obj\Debug\ResolveAssemblyReference.cache
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch10\10.7-s\10.7-s\obj\Debug\GenerateResource.read.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch10\10.7-s\10.7-s\obj\Debug\GenerateResource.write.1.tlog
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.exe
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.pdb
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch10\10.7-s\10.7-s\bin\Debug\WindowsFormsApplication1.exe
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch10\10.7-s\10.7-s\bin\Debug\WindowsFormsApplication1.pdb
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch10\10.7-s\10.7-s\obj\Debug\ResolveAssemblyReference.cache
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch10\10.7-s\10.7-s\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch10\10.7-s\10.7-s\obj\Debug\GenerateResource.read.1.tlog
+D:\MyBooks\我的書電子檔\Book_Visual C#_碁峰\書附光碟\範例程式\Ch10\10.7-s\10.7-s\obj\Debug\GenerateResource.write.1.tlog
+D:\Examples\Ch10\10.6-2\10.6-2\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch10\10.6-2\10.6-2\obj\Debug\WindowsFormsApplication1.pdb

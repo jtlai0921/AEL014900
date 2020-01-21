@@ -1,0 +1,29 @@
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Workings\C#\rev2\13\13.6-s2\13.6-s2\bin\Debug\13.6-s2.exe
+D:\Workings\C#\rev2\13\13.6-s2\13.6-s2\bin\Debug\13.6-s2.pdb
+D:\Workings\C#\rev2\13\13.6-s2\13.6-s2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Workings\C#\rev2\13\13.6-s2\13.6-s2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Workings\C#\rev2\13\13.6-s2\13.6-s2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Workings\C#\rev2\13\13.6-s2\13.6-s2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Workings\C#\rev2\13\13.6-s2\13.6-s2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Workings\C#\rev2\13\13.6-s2\13.6-s2\obj\x86\Debug\13.6-s2.exe
+D:\Workings\C#\rev2\13\13.6-s2\13.6-s2\obj\x86\Debug\13.6-s2.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.6-s2\13.6-s2\obj\x86\Debug\13.6-s2.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.6-s2\13.6-s2\obj\x86\Debug\13.6-s2.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.6-s2\13.6-s2\bin\Debug\13.6-s2.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.6-s2\13.6-s2\bin\Debug\13.6-s2.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.6-s2\13.6-s2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.6-s2\13.6-s2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.6-s2\13.6-s2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.6-s2\13.6-s2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.6-s2\13.6-s2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Examples\Ch13\13.5-3\13.5-3\obj\x86\Debug\13.6-s2.exe
+D:\Examples\Ch13\13.5-3\13.5-3\obj\x86\Debug\13.6-s2.pdb

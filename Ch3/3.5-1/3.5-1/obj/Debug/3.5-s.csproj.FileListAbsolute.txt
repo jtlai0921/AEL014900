@@ -1,0 +1,35 @@
+D:\Workings\C#\rev2\3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.exe
+D:\Workings\C#\rev2\3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.pdb
+D:\Workings\C#\rev2\3\3.5-s\3.5-s\bin\Debug\WindowsFormsApplication1.exe
+D:\Workings\C#\rev2\3\3.5-s\3.5-s\bin\Debug\WindowsFormsApplication1.pdb
+D:\Workings\C#\rev2\3\3.5-s\3.5-s\obj\Debug\ResolveAssemblyReference.cache
+D:\Workings\C#\rev2\3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Workings\C#\rev2\3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Workings\C#\rev2\3\3.5-s\3.5-s\obj\Debug\GenerateResource.read.1.tlog
+D:\Workings\C#\rev2\3\3.5-s\3.5-s\obj\Debug\GenerateResource.write.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch3\3.5-s\3.5-s\bin\Debug\WindowsFormsApplication1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch3\3.5-s\3.5-s\bin\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch3\3.5-s\3.5-s\obj\Debug\ResolveAssemblyReference.cache
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch3\3.5-s\3.5-s\obj\Debug\GenerateResource.read.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch3\3.5-s\3.5-s\obj\Debug\GenerateResource.write.1.tlog
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.exe
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.pdb
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch3\3.5-s\3.5-s\bin\Debug\WindowsFormsApplication1.exe
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch3\3.5-s\3.5-s\bin\Debug\WindowsFormsApplication1.pdb
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Book_1_第一次學VC# 2012就上手_碁峰\書附光碟\範例程式\Ch3\3.5-s\3.5-s\obj\Debug\3.5-s.csproj.GenerateResource.Cache
+D:\Examples\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch3\3.5-s\3.5-s\obj\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch3\3.5-1\3.5-s\obj\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch3\3.5-1\3.5-s\obj\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch3\3.5-1\3.5-s\bin\Debug\WindowsFormsApplication1.exe
+D:\Examples\Ch3\3.5-1\3.5-s\bin\Debug\WindowsFormsApplication1.pdb
+D:\Examples\Ch3\3.5-1\3.5-s\obj\Debug\3.5-s.csprojResolveAssemblyReference.cache
+D:\Examples\Ch3\3.5-1\3.5-s\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Examples\Ch3\3.5-1\3.5-s\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Examples\Ch3\3.5-1\3.5-s\obj\Debug\3.5-s.csproj.GenerateResource.Cache

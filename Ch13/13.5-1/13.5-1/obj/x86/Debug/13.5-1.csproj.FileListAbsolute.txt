@@ -1,0 +1,26 @@
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Clyde Li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.5-1\13.5-1\bin\Debug\13.5-1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.5-1\13.5-1\bin\Debug\13.5-1.pdb
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\13.5-1.exe
+D:\Book_Visual C#_碁峰\第一版\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\13.5-1.pdb
+D:\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\13.5-1.exe
+D:\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\13.5-1.pdb
+D:\Examples\Ch13\13.5-1\13.5-1\bin\Debug\13.5-1.exe
+D:\Examples\Ch13\13.5-1\13.5-1\bin\Debug\13.5-1.pdb
+D:\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\13.5-1.csprojResolveAssemblyReference.cache
+D:\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Examples\Ch13\13.5-1\13.5-1\obj\x86\Debug\13.5-1.csproj.GenerateResource.Cache
